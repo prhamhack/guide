@@ -304,3 +304,4 @@ else if (command === 'deletetag') {
 ## Resulting code
 
 <ResultingCode path="sequelize/tags" />
+لل
